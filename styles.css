@@ -4,7 +4,7 @@ li{
 	display: inline;
 	margin-right: 1rem;
 }
-nav{
+.container{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
